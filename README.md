@@ -1,32 +1,21 @@
 # II-Meetup-PyData
 Links para as configurações de ambiente dos minicurso realizados no 2 Meetup do PyData Manaus
 
-## Raspagem de Dados Públicos com Python - Nicoli Araújo
+## Instalação 
 
-https://github.com/pyladiesmanaus/raspagem-sefaz 
+Se você não possui Python instalado ainda, é recomendado que você instale a distribuição [Anaconda](http://anaconda.com/download), que já possui pacotes e muito mais bibliotecas instaladas. Atente na seleção do versão da linguagem. Escolha o Python 3.+ e não 2.7.
 
-## Prevendo Risco de Crédito com Orange - Manoel Souza
+## Links
 
-http://anaconda.com/download
+* [Raspagem de Dados Públicos com Python](https://github.com/pyladiesmanaus/raspagem-sefaz) - [Nicoli Araújo](https://github.com/NicoliAraujo)
 
-https://orange.biolab.si/download/
-
-https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/blob/master/credit-data-training.xlsx
-
-https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/blob/master/customers-to-score.xlsx
+* [Prevendo Risco de Crédito com Orange - Manoel Souza](https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/)
+* [Introdução à Análise de Dados com Pandas - Rafaela Sousa](https://github.com/rafaelaprm/pydata_minicurso_pandas)
+  - [Apresentação](https://github.com/rafaelaprm/pydata_minicurso_pandas/blob/master/Pydata%20-%20An%C3%A1lise%20de%20Dados%20com%20Pandas.pdf)
+  
+* [99% de Acurácia... tá, mas e aí? - Rodrigo Moares](https://github.com/rodrigocmoraes/pydata2019)
+  - [Apresentação](https://github.com/RodrigoCMoraes/pydata2019/blob/master/PyData2019.pdf)
+  
+* [Sumarização de Textos utilizando Python e NLTK - Yan Soares](http://bit.ly/2Jbe6gi)
  
- ## Introdução à Análise de Dados com Pandas - Rafaela Sousa
- 
- http://anaconda.com/download
- 
- https://programandociencia.com/2015/08/07/instalando-o-anaconda/
- 
-##  99% de Acurácia... tá, mas e aí? - Rodrigo Moares
-
-https://github.com/rodrigocmoraes/pydata2019
-
-## Sumarização de Textos utilizando Python e NLTK - Yan Soares
-
-http://anaconda.com/download
-http://bit.ly/2Jbe6gi 
  
