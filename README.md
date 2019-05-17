@@ -3,7 +3,7 @@ Links para as configurações de ambiente dos minicurso realizados no 2 Meetup d
 
 ## Instalação 
 
-Se você não possui Python instalado ainda, é recomendado que você instale a distribuição [Anaconda (http://anaconda.com/download), que já possui pacotes e muito mais bibliotecas instaladas. Atente na seleção do versão da linguagem. Escolha o Python 3.+ e não 2.7.
+Se você não possui Python instalado ainda, é recomendado que você instale a distribuição [Anaconda](http://anaconda.com/download), que já possui pacotes e muito mais bibliotecas instaladas. Atente na seleção do versão da linguagem. Escolha o Python 3.+ e não 2.7.
 
 ## Links
 
