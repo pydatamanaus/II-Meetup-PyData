@@ -7,7 +7,7 @@ Se você não possui Python instalado ainda, é recomendado que você instale a 
 
 ## Links
 
-* [Raspagem de Dados Públicos com Python - Nicoli Araújo](https://github.com/pyladiesmanaus/raspagem-sefaz)
+* [Raspagem de Dados Públicos com Python](https://github.com/pyladiesmanaus/raspagem-sefaz) - [Nicoli Araújo](https://github.com/NicoliAraujo)
 
 * [Prevendo Risco de Crédito com Orange - Manoel Souza](https://github.com/manoel-victor1602/Predicting-Default-Risk-with-Alteryx/)
 * [Introdução à Análise de Dados com Pandas - Rafaela Sousa](https://github.com/rafaelaprm/pydata_minicurso_pandas)
